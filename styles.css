@@ -1,7 +1,6 @@
 @import url(https://db.onlinewebfonts.com/c/02b0cfe9a43c6fc48f54c9bf6f59dbfb?family=Domaine+Sans+Fine+Regular+Regular);
 .img{
     padding-left: 40%;
-  
 
 }
 h1{
@@ -16,7 +15,6 @@ h2{
 li {
     font-size: 20px; 
 }
-
 .aimg{
     display: flex;
     align-items: center;
@@ -44,13 +42,11 @@ li {
 }
 
 
-
 .datos{
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
 
-   
 }
 
 .info{
@@ -75,7 +71,6 @@ li {
    background-color:rgb(126, 131, 207);
    flex-basis: 200;
    gap:20px;
-
 }
 .grid h2{
     background-color:rgb(184, 186, 221);
